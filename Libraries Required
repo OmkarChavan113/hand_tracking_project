@@ -1,0 +1,2 @@
+Install Required Libraries:
+pip install opencv-python mediapipe numpy
